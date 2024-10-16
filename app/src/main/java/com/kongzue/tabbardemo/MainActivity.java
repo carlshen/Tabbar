@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
                         return false;
                     }
                 })
-                .setNormalFocusIndex(1)
+                .setNormalFocusIndex(0)
         ;
         
         final List<Tab> tabSort = new ArrayList<>();

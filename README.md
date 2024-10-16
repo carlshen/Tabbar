@@ -1,3 +1,6 @@
+
+Upgrade gradle and android sdk.
+
 # Kongzue Tabbar
 Kongzue Tabbar是一款简单的底部导航栏组件，仅需要简单配置即可满足绝大多数需要使用导航栏的场景。
 
